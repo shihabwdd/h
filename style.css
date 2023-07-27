@@ -1,0 +1,133 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* .pic{
+    height: 180px;
+    width:160px;
+    position: absolute;
+    margin: 0;
+} */
+
+.content{
+    box-sizing: border-box;
+    border: none;
+    display: inline-block;
+    height: 265px;
+    padding: 5px;
+    width: 385px;
+    margin-left: 37%;
+    margin-top: 13%; 
+ 
+}
+
+.txt{
+    position: relative;
+    margin-left: 170px;
+    margin-top: -30px;
+    font-size: 25px;
+}
+.fa-facebook {
+    background: #000000;
+    color: rgb(61, 92, 179);
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 3px;
+  }
+
+  .fa-youtube {
+    background: #000000;
+    color:blue;
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 3px;
+  }
+
+  .fa-instagram{
+    background: #000000;
+    color:;
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 3px;
+
+  }
+
+  .fa-pinterest {
+    background: #0a0a0a;
+    color: rgb(138, 33, 180);
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 3px;
+  }
+  .fa-Whats App{
+    background: #0a0a0a;
+    color: rgb(138, 33, 180);
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    padding: 3px;
+  }
+  .name{
+    padding: 5%;
+    /* border-bottom: 2px solid black; */
+    font-family: 'Space Grotesk', sans-serif;
+    margin-top: 3px;
+  }
+
+  .email{
+    padding: 2%;
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 5px;
+    font-size: 20px;
+    color: #A1A1A1;
+  }
+p{
+  font-weight: bold;
+}
+  .pic{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    margin-top: -3px;
+  }
+
+  .read_more{
+    position: relative;
+    border:none;
+    margin-top: 48px;
+    margin-left: -171px;
+    height: 65px;
+    background-color: blue;
+    color: rgb(8, 192, 69);
+    padding: 3px;
+    width: 358px;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  h1{
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+  }
+
+.st{
+  
+  padding-bottom: 5px;
+  font-size: 18px;
+  border-bottom: 2px solid black;
+  color: #A1A1A1;
+}
+
+.icon{
+  margin-left: 10px;
+  padding-top: 8%;
+}
